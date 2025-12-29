@@ -11,6 +11,7 @@
 
 <h3 align="center">🚀 Blockchain Engineer • Python / AI Builder • Systems Thinker</h3>
 <h4 align="center">📍 Abuja, Nigeria • 🧠 Building real things that scale</h4>
+<h3 align="center"> PRONOUNS: HE/HIM/HIS/THEM</h3>
 
 ---
 
