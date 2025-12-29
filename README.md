@@ -80,8 +80,8 @@ I believe strong fundamentals beat hype — every single time.
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devbigsam&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbigsam&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats-devbigsam.vercel.app/api?username=devbigsam&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-devbigsam.vercel.app/api/top-langs/?username=devbigsam&layout=compact&theme=radical" />
 </p>
 
 ---
