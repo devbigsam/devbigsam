@@ -101,7 +101,7 @@ I believe strong fundamentals beat hype — every single time.
 <p>
   <a href="https://github.com/devbigsam"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <a href="mailto:samueldubuisi54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://samuelportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?logo=vercel&logoColor=white" /></a>
+  <a href="https://devbigsam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
