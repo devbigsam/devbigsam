@@ -106,7 +106,7 @@ I believe strong fundamentals beat hype — every single time.
   <a href="mailto:samueldubuisi54@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://devbigsam.vercel.app">
+  <a href="https://devbigsam.site">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?logo=vercel&logoColor=white" />
   </a>
   <a href="https://t.me/devbigsam">
